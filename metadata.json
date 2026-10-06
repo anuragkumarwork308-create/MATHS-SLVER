@@ -1,0 +1,6 @@
+{
+  "name": "Aurum Solver",
+  "description": "Royal gold math solver with step-by-step solutions, camera scanner, 500+ formulas, class 1-12 curriculum, quiz tests, and offline graph calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
